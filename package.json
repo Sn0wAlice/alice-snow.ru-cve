@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.15.0",
+    "node-fetch": "^2.7.0",
+    "stream-chain": "^3.3.2",
+    "stream-json": "^1.8.0",
+    "zlib": "^1.0.5"
+  }
+}
